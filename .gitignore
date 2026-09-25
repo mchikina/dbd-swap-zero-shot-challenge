@@ -1,0 +1,9 @@
+# large / regenerable data (see scripts/download_data.sh and scripts/run_pipeline.sh)
+GSE179430/GSE179430_RAW.tar
+GSE179430/raw/
+genome/sacCer3.fa
+analysis/targets/mean_tracks/
+analysis/peaks/*.npz
+.venv/
+__pycache__/
+*.log
